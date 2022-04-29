@@ -18,6 +18,8 @@ avatar: https://drive.google.com/file/d/1o1UA9iK3ToEwGTv2710H-6-lBntPGKz8/view?u
 # Flags below are optional
 #
 
+<span style="color:pink">some *pink* text</span>.
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
